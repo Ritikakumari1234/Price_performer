@@ -2,7 +2,7 @@
 
 
 
-Welcome to the Laptop Price Predictor project repository! This project aims to predict the price of laptops based on various features and specifications. Whether you're a tech enthusiast, a data scientist, or someone interested in machine learning, this project provides an opportunity to explore the world of predictive modelling.
+This project aims to predict the price of laptops based on various features and specifications. Whether you're a tech enthusiast, a data scientist, or someone interested in machine learning, this project provides an opportunity to explore the world of predictive modelling.
 
 Table of Contents
 About
