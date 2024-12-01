@@ -10,7 +10,7 @@ Dataset
 Features
 About
 
-Welcome to the Laptop Price Predictor project repository! This project showcases a Laptop price prediction system implemented through supervised machine learning techniques. The core of this research centres on the application of multiple linear regression as the chosen machine learning method, resulting in an impressive 88% prediction precision.
+ This project showcases a Laptop price prediction system implemented through supervised machine learning techniques. The core of this research centres on the application of multiple linear regression as the chosen machine learning method, resulting in an impressive **88%** prediction precision.
 
 The foundation of this approach lies in the utilization of multiple independent variables to predict a single dependent variable. In this context, the dependent variable is the laptop's price, and its prediction is based on careful consideration of factors such as the laptop's model, RAM size, ROM type (HDD/SSD), GPU configuration, CPU specifications, IPS display presence, and Touch Screen availability.
 
